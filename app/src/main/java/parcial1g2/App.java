@@ -1,4 +1,4 @@
- public static void main(String[] args) {
+  public static void main(String[] args) {
 
         Scanner Juan = new Scanner(System.in);
         int cantidadVehiculoss = 0;
